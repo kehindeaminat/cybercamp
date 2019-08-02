@@ -1,0 +1,44 @@
+body{
+    background-color:  lightblue;
+}
+h1{
+    color: darkgoldenrod;
+    text-align:center;
+}
+p  {font-family:verdana;
+    font-size: 20px;
+}
+a{
+    color:forestgreen;
+    padding: 10px;
+}
+h2 {
+    color: blue;
+}
+h3{
+    color: aqua;
+}
+h4{
+    color: indianred;
+}
+h5{
+    color: orangered;
+}
+h6{
+    color: deeppink;
+}
+input{
+    margin:10px;
+}
+body{
+    background-color: blue;
+}
+h1{
+    background-color: darkorange;
+}
+h2{
+    background-color: purple;
+}
+p{
+    background-color: lightcoral;
+}
